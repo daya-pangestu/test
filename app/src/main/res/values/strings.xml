@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Segitiga</string>
+    <string name="lblPanjang">Panjang</string>
+    <string name="lblLebar">Lebar</string>
+    <string name="lblHitung">Hitung</string>
+    <string name="lblNone">Belum ada Hasil</string>
+    <string name="lblHasil">Hasil hitung adalah
+%1$.2f</string>
+</resources>
